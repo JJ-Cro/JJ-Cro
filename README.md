@@ -63,10 +63,6 @@
 
 🔍 Check out [awesome-crypto-examples](https://github.com/tiagosiebler/awesome-crypto-examples) for practical Node.js implementations!
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JJ-Cro&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/jerkojurlina)
