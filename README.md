@@ -38,7 +38,7 @@
 
 ## 🚀 Crypto Exchange SDKs
 
-- > Note: While I don't own these projects, I actively collaborate with Tiago to enhance and maintain them.
+> Note: While I don't own these projects, I actively collaborate with Tiago to enhance and maintain them.
 
 We've developed Node.js SDKs for various popular cryptocurrency exchanges, providing easy-to-use interfaces for both REST APIs and WebSockets. Check out our packages:
 
