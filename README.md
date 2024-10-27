@@ -42,16 +42,16 @@
 
 We've developed Node.js SDKs for various popular cryptocurrency exchanges, providing easy-to-use interfaces for both REST APIs and WebSockets. Check out our packages:
 
-| Exchange | NPM Package | NPM Downloads |
-|----------|-------------|---------------|
-| Bybit | [![npm version](https://img.shields.io/npm/v/bybit-api.svg?style=flat-square)](https://www.npmjs.com/package/bybit-api) | [![npm downloads](https://img.shields.io/npm/dt/bybit-api?style=flat-square)](https://www.npmjs.com/package/bybit-api) |
-| Binance | [![npm version](https://img.shields.io/npm/v/binance.svg?style=flat-square)](https://www.npmjs.com/package/binance) | [![npm downloads](https://img.shields.io/npm/dt/binance?style=flat-square)](https://www.npmjs.com/package/binance) |
-| OKX | [![npm version](https://img.shields.io/npm/v/okx-api.svg?style=flat-square)](https://www.npmjs.com/package/okx-api) | [![npm downloads](https://img.shields.io/npm/dt/okx-api?style=flat-square)](https://www.npmjs.com/package/okx-api) |
-| Gate.io | [![npm version](https://img.shields.io/npm/v/gateio-api.svg?style=flat-square)](https://www.npmjs.com/package/gateio-api) | [![npm downloads](https://img.shields.io/npm/dt/gateio-api?style=flat-square)](https://www.npmjs.com/package/gateio-api) |
-| Bitget | [![npm version](https://img.shields.io/npm/v/bitget-api.svg?style=flat-square)](https://www.npmjs.com/package/bitget-api) | [![npm downloads](https://img.shields.io/npm/dt/bitget-api?style=flat-square)](https://www.npmjs.com/package/bitget-api) |
-| KuCoin | [![npm version](https://img.shields.io/npm/v/kucoin-api.svg?style=flat-square)](https://www.npmjs.com/package/kucoin-api) | [![npm downloads](https://img.shields.io/npm/dt/kucoin-api?style=flat-square)](https://www.npmjs.com/package/kucoin-api) |
-| Coinbase | [![npm version](https://img.shields.io/npm/v/coinbase-api.svg?style=flat-square)](https://www.npmjs.com/package/coinbase-api) | [![npm downloads](https://img.shields.io/npm/dt/coinbase-api?style=flat-square)](https://www.npmjs.com/package/coinbase-api) |
-| BitMart | [![npm version](https://img.shields.io/npm/v/bitmart-api.svg?style=flat-square)](https://www.npmjs.com/package/bitmart-api) | [![npm downloads](https://img.shields.io/npm/dt/bitmart-api?style=flat-square)](https://www.npmjs.com/package/bitmart-api) |
+| Exchange | Github Repo | NPM Package | NPM Downloads |
+|----------|-------------|---------------|-------------|
+| Bybit | [bybit-api](https://github.com/tiagosiebler/bybit-api) | [![npm version](https://img.shields.io/npm/v/bybit-api.svg?style=flat-square)](https://www.npmjs.com/package/bybit-api) | [![npm downloads](https://img.shields.io/npm/dt/bybit-api?style=flat-square)](https://www.npmjs.com/package/bybit-api) |
+| Binance | [binance](https://github.com/tiagosiebler/binance) | [![npm version](https://img.shields.io/npm/v/binance.svg?style=flat-square)](https://www.npmjs.com/package/binance) | [![npm downloads](https://img.shields.io/npm/dt/binance?style=flat-square)](https://www.npmjs.com/package/binance) |
+| OKX | [okx-api](https://github.com/tiagosiebler/okx-api) | [![npm version](https://img.shields.io/npm/v/okx-api.svg?style=flat-square)](https://www.npmjs.com/package/okx-api) | [![npm downloads](https://img.shields.io/npm/dt/okx-api?style=flat-square)](https://www.npmjs.com/package/okx-api) |
+| Gate.io | [gateio-api](https://github.com/tiagosiebler/gateio-api) | [![npm version](https://img.shields.io/npm/v/gateio-api.svg?style=flat-square)](https://www.npmjs.com/package/gateio-api) | [![npm downloads](https://img.shields.io/npm/dt/gateio-api?style=flat-square)](https://www.npmjs.com/package/gateio-api) |
+| Bitget | [bitget-api](https://github.com/tiagosiebler/bitget-api) | [![npm version](https://img.shields.io/npm/v/bitget-api.svg?style=flat-square)](https://www.npmjs.com/package/bitget-api) | [![npm downloads](https://img.shields.io/npm/dt/bitget-api?style=flat-square)](https://www.npmjs.com/package/bitget-api) |
+| KuCoin | [kucoin-api](https://github.com/tiagosiebler/kucoin-api) | [![npm version](https://img.shields.io/npm/v/kucoin-api.svg?style=flat-square)](https://www.npmjs.com/package/kucoin-api) | [![npm downloads](https://img.shields.io/npm/dt/kucoin-api?style=flat-square)](https://www.npmjs.com/package/kucoin-api) |
+| Coinbase | [coinbase-api](https://github.com/tiagosiebler/coinbase-api) | [![npm version](https://img.shields.io/npm/v/coinbase-api.svg?style=flat-square)](https://www.npmjs.com/package/coinbase-api) | [![npm downloads](https://img.shields.io/npm/dt/coinbase-api?style=flat-square)](https://www.npmjs.com/package/coinbase-api) |
+| BitMart | [bitmart-api](https://github.com/tiagosiebler/bitmart-api) | [![npm version](https://img.shields.io/npm/v/bitmart-api.svg?style=flat-square)](https://www.npmjs.com/package/bitmart-api) | [![npm downloads](https://img.shields.io/npm/dt/bitmart-api?style=flat-square)](https://www.npmjs.com/package/bitmart-api) |
 
 ### Key Features:
 - Full TypeScript support
