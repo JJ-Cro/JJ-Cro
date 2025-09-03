@@ -9,6 +9,7 @@
 - 🏆 Ex-professional athlete
 - 💪 Top Rated Upwork freelancer with 100% job success score
 - 💻 Node.js, Javascript, and Typescript developer
+- 💻 Rust and MQL4/5 developer
 - 📊 Algorithmic trader and long-term investor in forex and crypto markets
 - 🎓 Master in Economics
 - 🚀 Currently building open-source software for crypto markets with [Tiago](https://github.com/tiagosiebler)
@@ -20,6 +21,7 @@
 - JavaScript
 - TypeScript
 - MQL(MT4/MT5)
+- Rust
 - REST APIs
 - WebSockets
 - Algorithmic Trading
