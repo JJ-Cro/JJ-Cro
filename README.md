@@ -54,7 +54,7 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 | KuCoin | [kucoin-api](https://github.com/tiagosiebler/kucoin-api) | [![npm version](https://img.shields.io/npm/v/kucoin-api.svg?style=flat-square)](https://www.npmjs.com/package/kucoin-api) | [![npm downloads](https://img.shields.io/npm/dt/kucoin-api?style=flat-square)](https://www.npmjs.com/package/kucoin-api) |
 | Coinbase | [coinbase-api](https://github.com/tiagosiebler/coinbase-api) | [![npm version](https://img.shields.io/npm/v/coinbase-api.svg?style=flat-square)](https://www.npmjs.com/package/coinbase-api) | [![npm downloads](https://img.shields.io/npm/dt/coinbase-api?style=flat-square)](https://www.npmjs.com/package/coinbase-api) |
 | BitMart | [bitmart-api](https://github.com/tiagosiebler/bitmart-api) | [![npm version](https://img.shields.io/npm/v/bitmart-api.svg?style=flat-square)](https://www.npmjs.com/package/bitmart-api) | [![npm downloads](https://img.shields.io/npm/dt/bitmart-api?style=flat-square)](https://www.npmjs.com/package/bitmart-api) |
-| Kraken | [kraken-api](https://github.com/siebly-io/kraken-api) | [![npm version](https://img.shields.io/npm/v/kraken-api.svg?style=flat-square)](https://www.npmjs.com/package/kraken-api) | [![npm downloads](https://img.shields.io/npm/dt/kraken-api?style=flat-square)](https://www.npmjs.com/package/kraken-api) |
+| Kraken | [kraken-api](https://github.com/siebly/kraken-api) | [![npm version](https://img.shields.io/npm/v/@siebly/kraken-api.svg?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) | [![npm downloads](https://img.shields.io/npm/dt/@siebly/kraken-api?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) |
 
 ### Key Features:
 - Full TypeScript support
