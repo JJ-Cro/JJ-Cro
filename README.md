@@ -43,6 +43,7 @@
 > Note: While I don't own these projects, I actively collaborate with Tiago to enhance and maintain them.
 
 Take a look at our website: https://siebly.io/
+
 We've developed Node.js SDKs for various popular cryptocurrency exchanges, providing easy-to-use interfaces for both REST APIs and WebSockets. Check out our packages:
 
 | Exchange | Github Repo | NPM Package | NPM Downloads |
